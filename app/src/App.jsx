@@ -3,7 +3,7 @@ import { useSnackbar } from 'notistack'
 import useWebSocket, { ReadyState } from 'react-use-websocket'
 import axios from 'axios';
 
-import roverLogo from './assets/rover-64px.png'
+
 import Canvas from './components/Canvas'
 import Rover from './components/rover'
 import Mine from './components/mine';
